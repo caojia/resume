@@ -3,7 +3,7 @@
 
 ------------------- ----
 北京市海淀区	
-手机：**13811757930** &nbsp;&nbsp;&nbsp;&nbsp; email: **jerrycircle@gmail.com**
+手机：**13811757930** &nbsp;&nbsp;&nbsp;&nbsp; Email: **jerrycircle@gmail.com** &nbsp;&nbsp;&nbsp;&nbsp; Github: <https://github.com/caojia>
 -------------------	----
 
 工作经历
