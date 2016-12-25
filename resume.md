@@ -1,13 +1,18 @@
 曹佳
 ============
 
-------------------- ----
 北京市海淀区	
 手机：**13811757930** &nbsp;&nbsp;&nbsp;&nbsp; Email: **jerrycircle@gmail.com** &nbsp;&nbsp;&nbsp;&nbsp; Github: <https://github.com/caojia>
 -------------------	----
 
 工作经历
 ----
+####瓜子二手车（研发副总监）<div style="float:right;font-size: 90%;">2016.4 - 2016.12</div>
+
+**瓜子金融（2016.4 - 2016.12）**（Php，Go）
+
+从零开始搭建瓜子金融业务系统，包括第三方订单系统维护，以及前端页面展示、信审系统、贷后系统、抵押系统、结算系统、银行系统对接等。
+
 ####宜信大数据创新中心（研发经理）<div style="float:right;font-size: 90%;">2014.5 - 2016.4</div>
 
 **商通贷（2014.7 - 2016.4）**（Scala，Go，Javascript，Docker）
